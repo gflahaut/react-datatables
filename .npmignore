@@ -1,0 +1,10 @@
+# Exclude all files and folders except the dist folder and essential files
+/src/
+/tests/
+/index.html
+/package.json
+/vite.config.js
+/jest.config.mjs
+/babel.config.cjs
+/eslint.config.js
+.gitignore

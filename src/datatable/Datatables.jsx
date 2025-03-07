@@ -54,7 +54,7 @@ const DataTable = ({ data, columns, rowsPerPage = 3 }) => {
               <th
                 key={key}
                 onClick={() => handleSort(key)}
-                className="cursor-pointer border p-2"
+                data-testid={`column-${key}`}
               >
                 {key.charAt(0).toUpperCase() + key.slice(1)}
                 {sortConfig.key === key ? (sortConfig.direction === "asc" ? " 🔼" : " 🔽") : ""}

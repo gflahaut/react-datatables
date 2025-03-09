@@ -23,7 +23,14 @@ or using Yarn:
 ```bash
 yarn add gf-react-datatables
 ```
+## Prerequisites :
 
+Before using this package, ensure your development environment meets the following requirements:
+
+- **Node.js**:  v16 or later
+- **React**: v18 or later
+- **NPM**: v8+ (or Yarn v1.22+)
+- **Recommended editor**: VS Code (with ESLint & Prettier extensions for formatting)
 ## Props
 
 | Prop           | Type             | Default       | Description                                                              |
@@ -92,3 +99,8 @@ Feel free to open issues and submit pull requests if you'd like to contribute to
 ## License
 
 MIT License
+
+## Links
+
+- **GitHub Repository**: https://github.com/gflahaut/react-datatables
+- **NPM Package**: https://www.npmjs.com/package/gf-react-datatables?activeTab=readme

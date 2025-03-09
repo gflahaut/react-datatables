@@ -1,6 +1,23 @@
 {
   "name": "gf-react-datatables",
-  "version": "0.0.11",
+  "version": "0.0.12",
+  "description": "A lightweight and customizable React data table component with sorting, searching, and pagination features.",
+  "keywords": [
+    "react",
+    "datatable",
+    "table",
+    "pagination",
+    "sorting",
+    "filtering",
+    "component"
+  ],
+  "author": "gFlahaut <flahaut.gwendoliine@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gflahaut/react-datatables"
+  },
+  "homepage": "https://github.com/gflahaut/react-datatables/blob/main/README.md",
   "type": "module",
   "main": "dist/gf-react-datatables.umd.js",
   "module": "dist/gf-react-datatables.umd.js",
